@@ -1,6 +1,4 @@
-# guilherme-leite
-
-# 👋 Hi, I'm Guilherme Leite  
+## 👋 Hi, I'm Guilherme Leite  
 
 🎓 Electrical Engineer (Brazil) | Specializing in **Advanced Industrial Automation**  
 📚 Master’s in **Control, Automation & Robotics** (2025–2027)  
